@@ -70,3 +70,6 @@ prof/
 
 # Local Netlify folder
 .netlify
+
+# tags files
+tags
